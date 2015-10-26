@@ -1,0 +1,7 @@
+retweet: true
+consumer_key: ''
+consumer_secret: ''
+your_token: ''
+your_secret: ''
+slack_web_hook: "https://hooks.slack.com/services/XXX/XXX/XXX"
+regex: "\\btest(conf|2015|conf2015)?\\b"

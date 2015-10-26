@@ -1,0 +1,10 @@
+source 'https://rubygems.org/'
+
+gem 'tweetstream'
+gem 'twitter'
+gem 'json'
+gem 'unshorten'
+gem 'new_base60'
+gem 'httparty'
+gem 'htmlentities'
+gem 'nokogiri'
